@@ -78,7 +78,7 @@ $copyInsult = "Thou art $indefArt $words[0] $words[1] $words[2]"
 	<footer class="footer">
 		<div class="container">
 			<h4 class="buttons"><a href="./"><i class="fa fa-refresh"></i></a> &bull; <a href="?f=<?php echo $numbers[0];?>&s=<?php echo $numbers[1];?>&t=<?php echo $numbers[2];?>"><i class="fa fa-link"></i></a> &bull; <a href="#" id="copy-button" title="Copied!" data-clipboard-text="<?php echo $copyInsult; ?>"><i class="fa fa-clipboard"></i></a></h4>
-			<small>Words from <a href="http://imgur.com/E1R5fo4" target="_blank">this imgur post</a> &bull; 122500 combinations &bull; Hover for definitions</small>
+			<small>Words from <a href="http://imgur.com/E1R5fo4" target="_blank">this imgur post</a> &bull; 122500 combinations &bull; Hover for definitions &bull; <a href="https://github.com/freddinator/insult"><i class="fa fa-github"></i></a></small>
 		</div>
 	</footer>
 
