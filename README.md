@@ -9,3 +9,6 @@ To contribute a definition, add it to the array in `define.php`. The key should 
 
 # License
 Insult is under the MIT license. See the `LICENSE` file for more information.
+
+# Online Version
+An online version of this is available at [projects.iamoctopus.co/insult](http://projects.iamoctopus.co/insult/). It may not be using the latest version immediately after a commit.
